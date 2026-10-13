@@ -102,8 +102,8 @@ Medido con reloj real (UTC), desde que leí el encargo hasta el commit:
 | Diseño y código de las 7 escenas, el HUD y el post-proceso | ~9 min |
 | 2 rondas de renders de prueba y correcciones | ~3 min |
 | Render final (900 fotogramas) | ~18 min |
-| Codificación (2 pasadas), verificación y documentación | ~6 min |
-| **Total** | **≈ 45 minutos** (13:46 → 14:31 UTC) |
+| Codificación (2 pasadas), verificación y documentación | ~3 min |
+| **Total** | **≈ 42 minutos** (13:46 → 14:28 UTC) |
 
 Casi la mitad del tiempo fue la máquina renderizando. El trabajo de diseño y código ocupó unos 25 minutos.
 
