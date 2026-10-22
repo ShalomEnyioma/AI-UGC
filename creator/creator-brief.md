@@ -6,7 +6,7 @@ _Last updated: 2026-10-22_
 
 ## Who she is
 - 26, woman, based in Port Harcourt, Nigeria.
-- Earns from teaching and runs ads for her teaching business. Can show proof of income on camera.
+- **Digital marketer** (not a teacher): sells courses, runs ads. Can show proof of income on camera — but never bank balances or account numbers (safety).
 - Already has products: AI products, websites, courses.
 - Christian, not religious.
 - Has not posted any content yet. Starting on **TikTok**.
@@ -23,6 +23,13 @@ _Last updated: 2026-10-22_
 - Deliberate about money and about love.
 - Personal life and relationship choices stay **off camera**.
 
+## Content rules (agreed 2026-10-22)
+- One identity, many topics: everything goes through the **money / independence / choices** lens.
+- **Verdict first**, in the first 3 seconds. No defending the other side — leave that to the comments. End with a question that forces people to pick a side.
+- Controversy on opinions, never on facts. Never say anything that can be disproved.
+- Blunt to excuses, never mocking poverty. Every "you are the reason" comes with one concrete step.
+- Series idea: "Day X: how a single girl in Port Harcourt pays her own rent without collecting a kobo from a man."
+
 ## Off-limits on camera
 - The business partner who left her for a bigger name. Never name him. The lesson behind it can be content; the story itself can't.
 - Some personal-belief and sexuality topics. She chose to keep them off camera; she will list them privately.
@@ -30,6 +37,8 @@ _Last updated: 2026-10-22_
 
 ## Reference creators
 - Admires: Solomon Buchi (@solomonbbuchi, 858.5K IG), Eric Gugua (@eric_gugua, 1M IG), Adeife Adeoye (media personality; note she publicly calls "make money online" low-ambition), "Mimi Oje" (marketing authority; handle still unknown).
+- Also in her space: Passive Income Anna (@passiveincomeannaa, TikTok vlogs, Selar affiliate courses), Opeyemi Famakin (@opeyemifamakin, 1.2M IG, food & perfume critic with a 10/10 rating gimmick).
+- "Mimi Ojeh": closest match found is @mimi_ojieh on TikTok ("Beauty in Motherland"), probably not the right person. Ask for the link.
 - Hates being compared to: **Saida Boj** (@saidaboj, 721.8K IG). Use her as a foil: Peace says the opposite.
 
 ## Audience
@@ -46,7 +55,8 @@ Young Nigerian women first. Also men, the diaspora, and parents of teenagers.
 
 ## Tools
 - vidIQ: Boost-level plan, ~2,000 credits/month, renews 2026-11-22. Working.
-- Gear: phone, camera, lighting. Still to confirm: a wireless lav mic. Editing in CapCut is enough to start.
+- Gear: phone, camera, lighting, wireless mic, CapCut, Claude Pro.
+- ScrapeCreators (via Composio) is connected: TikTok search, transcripts, public X/Twitter accounts. No need for a paid X API.
 - Tella is connected.
 - She says an editing skill was built in an earlier session. It is not in this repo, in the Claude skills or in her Tella skill library. Find it or rebuild it.
 
