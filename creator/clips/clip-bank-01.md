@@ -177,3 +177,24 @@ Raw opinion:
 ## Excluded on purpose
 - **Immunizer's "intentional man" video** (289K): it targets a private individual (Natalie), and Immunizer has been remanded before. Not worth it.
 - **Skits and pranks** (gold-digger pranks, couple skits): a verdict on a skit lands weakly.
+
+---
+
+## Bonus clips from Instagram and Facebook (added 22 Oct 2026)
+
+**31. A Rivers State police officer warns women against collecting transport fare from men** (Port Harcourt, your city)
+https://www.instagram.com/reel/Dci_f5vtez3/ · 127K · 587 comments
+Raw opinion:
+
+**32. "Collecting transport money without going to see him is 419"** (a follow-up to the same story)
+https://www.instagram.com/reel/DchI1O7oLYZ/ · 53K
+Raw opinion:
+
+**33. Lucky Udu: "If a man doesn't give you money, then you're not useful"**
+https://www.instagram.com/reel/DeFZH8asSiP/
+Raw opinion:
+
+**34. GehGeh's sister: "He preaches women shouldn't collect money from boyfriends…"**
+https://www.instagram.com/reel/DXNEOXIEQwZ/
+Use it as a lesson in why we live it before we preach it. React to the hypocrisy pattern, not to the family.
+Raw opinion:

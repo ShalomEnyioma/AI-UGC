@@ -28,7 +28,7 @@ _Last updated: 2026-10-22_
 - **Verdict first**, in the first 3 seconds. No defending the other side — leave that to the comments. End with a question that forces people to pick a side.
 - Controversy on opinions, never on facts. Never say anything that can be disproved.
 - Blunt to excuses, never mocking poverty. Every "you are the reason" comes with one concrete step.
-- Series idea: "Day X: how a single girl in Port Harcourt pays her own rent without collecting a kobo from a man."
+- Series 01 (title pending her pick, recommended **Zero Kobo From Him**, #ZeroKoboFromHim empty on TikTok): see `series/series-01-title-options.md`. She is genuinely single.
 
 ## Off-limits on camera
 - The business partner who left her for a bigger name. Never name him. The lesson behind it can be content; the story itself can't.
@@ -38,7 +38,9 @@ _Last updated: 2026-10-22_
 ## Reference creators
 - Admires: Solomon Buchi (@solomonbbuchi, 858.5K IG), Eric Gugua (@eric_gugua, 1M IG), Adeife Adeoye (media personality; note she publicly calls "make money online" low-ambition), "Mimi Oje" (marketing authority; handle still unknown).
 - Also in her space: Passive Income Anna (@passiveincomeannaa, TikTok vlogs, Selar affiliate courses), Opeyemi Famakin (@opeyemifamakin, 1.2M IG, food & perfume critic with a 10/10 rating gimmick).
-- "Mimi Ojeh": closest match found is @mimi_ojieh on TikTok ("Beauty in Motherland"), probably not the right person. Ask for the link.
+- Mimi Ojieh (@mimi_ojieh, 588.3K IG): digital marketing & content coach, now building Dishie Skincare in public ("Lesson 1 building dishie", 132K). Model: authority → own product brand.
+- Mama Ariella / Chioma Iyagba (@mamaariella, 323.2K IG): UK-based digital business growth strategist; paid community on Skool (Digital Monetisation Academy). Uses "Comment KEYWORD" CTAs (1.6K–10.5K comments). Model for the paid community.
+- GehGeh (male) already preaches "women shouldn't collect money from boyfriends"; it backfired when his sister called him out. Proof that hypocrisy gets exposed.
 - Hates being compared to: **Saida Boj** (@saidaboj, 721.8K IG). Use her as a foil: Peace says the opposite.
 
 ## Audience
