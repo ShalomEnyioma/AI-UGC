@@ -12,6 +12,7 @@ _Last updated: 2026-10-22_
 - Has not posted any content yet. Starting on **TikTok**.
 
 ## Voice and look
+- Signature phrases (from her raw opinions): "Really?", "For what exactly?" / "For wetin exactly?", "Omo", "that one no concern me", "contact sport" (her euphemism). Switches to Pidgin when making the sharpest point. Eye-roll is natural to her; use it.
 - English with an Igbo accent. Calm, blunt, sarcastic (often without trying).
 - No signature look yet. Planning to cut her hair low.
 - Has phone, camera, lighting and a room she can turn into a set.
