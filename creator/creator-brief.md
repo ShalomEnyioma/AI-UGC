@@ -39,7 +39,7 @@ Weekly rhythm: the series every day (or numbered "Episode X" if a day is missed)
 - **Verdict first**, in the first 3 seconds. No defending the other side — leave that to the comments. End with a question that forces people to pick a side.
 - Controversy on opinions, never on facts. Never say anything that can be disproved.
 - Blunt to excuses, never mocking poverty. Every "you are the reason" comes with one concrete step.
-- Series 01 (title pending her pick, recommended **Zero Kobo From Him**, #ZeroKoboFromHim empty on TikTok): see `series/series-01-title-options.md`. She is genuinely single.
+- Series 01: **Zero Kobo From Him** (CONFIRMED 2026-10-22, #ZeroKoboFromHim empty on TikTok): see `series/series-01-title-options.md`. She is genuinely single.
 
 ## Off-limits on camera
 - The business partner who left her for a bigger name. Never name him. The lesson behind it can be content; the story itself can't.

@@ -1,6 +1,6 @@
 # Series 01 — "I don't collect money from the man I date"
 
-**Status:** the title is waiting on Peace's pick. Recommended: **Zero Kobo From Him**.
+**Status:** CONFIRMED 2026-10-22. Title: **Zero Kobo From Him**.
 
 ## Why a series
 - Every episode makes people come back for the next one.
