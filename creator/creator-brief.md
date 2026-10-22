@@ -45,11 +45,13 @@ Young Nigerian women first. Also men, the diaspora, and parents of teenagers.
 - Willing to name celebrities and react to trends.
 
 ## Tools
-- vidIQ is connected, but as of 2026-10-22 the connected account still shows the free plan with 0 credits.
+- vidIQ: upgraded to a 1-month plan on 2026-10-22, but the connector dropped out of the session (needs re-auth at claude.ai/customize/connectors, then a new session).
+- Gear: phone, camera, lighting. Still to confirm: a wireless lav mic. Editing in CapCut is enough to start.
 - Tella is connected.
 - She says an editing skill was built in an earlier session. It is not in this repo, in the Claude skills or in her Tella skill library. Find it or rebuild it.
 
 ## Decisions log
 - 2026-10-22: Main lane chosen: **money, independence and dating, from a woman who doesn't collect money from men** (see `research/2026-10-22-diagnosis.md`).
 - 2026-10-22: Rejected pretending to be broke for drag bait. Use the **delayed-receipt** mechanic instead.
+- 2026-10-22: Saida Boj is the foil; Blessing CEO is the cautionary tale (charged with cyberbullying and libel). See `research/2026-10-22-reaction-bank.md`.
 - 2026-10-22: Politics parked until after the 2027 elections. Food and foreign culture are occasional filler only.
