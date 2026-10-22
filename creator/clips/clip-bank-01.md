@@ -182,11 +182,11 @@ Raw opinion:
 
 ## Bonus clips from Instagram and Facebook (added 22 Oct 2026)
 
-**31. A Rivers State police officer warns women against collecting transport fare from men** (Port Harcourt, your city)
+**31. ~~SKIPPED by Peace (old, low views)~~ A Rivers State police officer warns women against collecting transport fare from men** (Port Harcourt, your city)
 https://www.instagram.com/reel/Dci_f5vtez3/ · 127K · 587 comments
 Raw opinion:
 
-**32. "Collecting transport money without going to see him is 419"** (a follow-up to the same story)
+**32. ~~SKIPPED (same old story as #31)~~ "Collecting transport money without going to see him is 419"** (a follow-up to the same story)
 https://www.instagram.com/reel/DchI1O7oLYZ/ · 53K
 Raw opinion:
 
@@ -197,4 +197,38 @@ Raw opinion:
 **34. GehGeh's sister: "He preaches women shouldn't collect money from boyfriends…"**
 https://www.instagram.com/reel/DXNEOXIEQwZ/
 Use it as a lesson in why we live it before we preach it. React to the hypocrisy pattern, not to the family.
+Raw opinion:
+
+---
+
+## Fresh additions (pulled 22 Oct 2026, posted in the last 30 days)
+
+Peace's rule: **skip old clips and clips with low views.** Prefer clips under 30 days old with 250K+ views.
+
+**35. ✅ NEXT UP. "If I have no money, only my love, would that be enough for you?"**
+https://www.tiktok.com/@truthmatters_podcast/video/7697207669899234582 · 512K · 1.4K comments · posted 16 Oct
+A man asks a woman the question; the answer: "Love is important, but let's not pretend love is everything. We all have needs. You can't build a future on affection alone."
+Raw opinion:
+
+**36. ✅ A preacher: "If a man genuinely loves you, he will give you money without asking. If you refuse it, he'll think you don't love him."**
+https://www.tiktok.com/@kingdominsight_/video/7689456201863826696 · 373K · posted 25 Sep
+Religion × relationship × money. It's the pastor's version of clip #1.
+Raw opinion:
+
+**37. ✅ "If you love me, you spend on me… you bring, I bring"**
+https://www.tiktok.com/@talkwithjamilazubair1/video/7689091325173435669 · 727K · 3.6K comments · posted 24 Sep
+Raw opinion:
+
+**38. ✅ "Demanding money from a guy in this hard economy is gender-based violence"**
+https://www.tiktok.com/@starboy256mainaccount/video/7694496090560761140 · 522K · 3.5K comments · posted 9 Oct
+A man on "your side", using an exaggeration. Agree with him, then sharpen the point.
+Raw opinion:
+
+**39. "SAY NO TO GIRLFRIEND ALLOWANCE. What's that?!"**
+https://www.tiktok.com/@bobosa_the_first/video/7694967304152763655 · 502K · 2.6K comments · posted 10 Oct
+Raw opinion:
+
+**40. ✅ "Do you give your WIFE her own monthly allowance?"**
+https://www.tiktok.com/@kelechrisvic/video/7692036619389406485 · 1.5M · posted 2 Oct
+Marriage is where responsibility starts, which matches your Reaction 01 position. Agree, then draw the line: wife yes, girlfriend no.
 Raw opinion:

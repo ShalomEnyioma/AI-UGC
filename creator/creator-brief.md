@@ -36,6 +36,7 @@ One identity (money, independence, choices), three types of video:
 Weekly rhythm: the series every day (or numbered "Episode X" if a day is missed), plus one extra post that alternates: reactions Mon/Wed/Fri, opinion bombs Tue/Thu/Sat, Sunday series only.
 
 ## Content rules (agreed 2026-10-22)
+- Clip selection: skip old or low-view clips. Prefer posted within the last 30 days and 250K+ views.
 - One identity, many topics: everything goes through the **money / independence / choices** lens.
 - **Verdict first**, in the first 3 seconds. No defending the other side — leave that to the comments. End with a question that forces people to pick a side.
 - Controversy on opinions, never on facts. Never say anything that can be disproved.
