@@ -29,8 +29,8 @@ _Last updated: 2026-10-22_
 - More to be added.
 
 ## Reference creators
-- Admires: Solomon Buchi (values-led commentary), Eric Gugua (Christian creator and educator), Adeife (handle to confirm; possibly Adeife Adeoye of Remote WorkHer), "Mimi Oje" (marketing authority; handle to confirm).
-- Hates being compared to: **Saida Boj**. Use her as a foil: Peace says the opposite.
+- Admires: Solomon Buchi (@solomonbbuchi, 858.5K IG), Eric Gugua (@eric_gugua, 1M IG), Adeife Adeoye (media personality; note she publicly calls "make money online" low-ambition), "Mimi Oje" (marketing authority; handle still unknown).
+- Hates being compared to: **Saida Boj** (@saidaboj, 721.8K IG). Use her as a foil: Peace says the opposite.
 
 ## Audience
 Young Nigerian women first. Also men, the diaspora, and parents of teenagers.
@@ -45,7 +45,7 @@ Young Nigerian women first. Also men, the diaspora, and parents of teenagers.
 - Willing to name celebrities and react to trends.
 
 ## Tools
-- vidIQ: upgraded to a 1-month plan on 2026-10-22, but the connector dropped out of the session (needs re-auth at claude.ai/customize/connectors, then a new session).
+- vidIQ: Boost-level plan, ~2,000 credits/month, renews 2026-11-22. Working.
 - Gear: phone, camera, lighting. Still to confirm: a wireless lav mic. Editing in CapCut is enough to start.
 - Tella is connected.
 - She says an editing skill was built in an earlier session. It is not in this repo, in the Claude skills or in her Tella skill library. Find it or rebuild it.
@@ -54,4 +54,6 @@ Young Nigerian women first. Also men, the diaspora, and parents of teenagers.
 - 2026-10-22: Main lane chosen: **money, independence and dating, from a woman who doesn't collect money from men** (see `research/2026-10-22-diagnosis.md`).
 - 2026-10-22: Rejected pretending to be broke for drag bait. Use the **delayed-receipt** mechanic instead.
 - 2026-10-22: Saida Boj is the foil; Blessing CEO is the cautionary tale (charged with cyberbullying and libel). See `research/2026-10-22-reaction-bank.md`.
+- 2026-10-22: Formats: split-screen reaction + verdict (60–120s) for community, 11–25s opinion bombs for reach. See `research/2026-10-22-vidiq-scan.md`.
+- 2026-10-22: Signature look: low cut + one signature item, mic in frame, warm-lamp set.
 - 2026-10-22: Politics parked until after the 2027 elections. Food and foreign culture are occasional filler only.
