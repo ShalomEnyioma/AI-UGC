@@ -23,6 +23,17 @@ _Last updated: 2026-10-22_
 - Deliberate about money and about love.
 - Personal life and relationship choices stay **off camera**.
 
+## Content system (agreed 2026-10-22)
+One identity (money, independence, choices), three types of video:
+
+| Type | What it is | Length | Job |
+|---|---|---|---|
+| **Zero Kobo From Him** (series) | Her own life: "Day X, here's how today got paid for." | 30–60s | Trust and proof |
+| **Reactions** | Someone else's clip + her verdict | 60–120s | Community and comments |
+| **Opinion bombs** | Just her, one sentence | 11–25s | Reach (new people) |
+
+Weekly rhythm: the series every day (or numbered "Episode X" if a day is missed), plus one extra post that alternates: reactions Mon/Wed/Fri, opinion bombs Tue/Thu/Sat, Sunday series only.
+
 ## Content rules (agreed 2026-10-22)
 - One identity, many topics: everything goes through the **money / independence / choices** lens.
 - **Verdict first**, in the first 3 seconds. No defending the other side — leave that to the comments. End with a question that forces people to pick a side.
