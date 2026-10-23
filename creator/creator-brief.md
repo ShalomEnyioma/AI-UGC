@@ -6,7 +6,8 @@ _Last updated: 2026-10-22_
 
 ## Who she is
 - 26, woman, based in Port Harcourt, Nigeria.
-- **Digital marketer** (not a teacher): sells courses, runs ads. Can show proof of income on camera — but never bank balances or account numbers (safety).
+- **AI & digital marketing business** (not a teacher): she teaches AI, creates ad creatives and runs ads. Her business partner handles the backend, AI agents, landing pages and thumbnails. No in-depth business structure yet.
+- **Digital marketer**: sells courses, runs ads. Can show proof of income on camera — but never bank balances or account numbers (safety).
 - Already has products: AI products, websites, courses.
 - Christian, not religious.
 - Has not posted any content yet. Starting on **TikTok**.
@@ -74,6 +75,9 @@ Young Nigerian women first. Also men, the diaspora, and parents of teenagers.
 - ScrapeCreators (via Composio) is connected: TikTok search, transcripts, public X/Twitter accounts. No need for a paid X API.
 - Tella is connected.
 - She says an editing skill was built in an earlier session. It is not in this repo, in the Claude skills or in her Tella skill library. Find it or rebuild it.
+
+## Open question (2026-10-23)
+- Peace asked: "I'm in the AI/business niche, so why am I talking about relationships?" Claude recommended **Option B: business-first identity**: money-making controversies, AI teaching, the Zero Kobo series as a business documentary, and relationship × money at most once a week. **Waiting on her decision** about whether content is (a) the marketing channel for the AI business or (b) a separate influence business.
 
 ## Decisions log
 - 2026-10-22: Main lane chosen: **money, independence and dating, from a woman who doesn't collect money from men** (see `research/2026-10-22-diagnosis.md`).
